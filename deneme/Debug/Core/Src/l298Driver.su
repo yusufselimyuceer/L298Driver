@@ -1,0 +1,2 @@
+../Core/Src/l298Driver.c:11:5:motor_on_off	24	static
+../Core/Src/l298Driver.c:51:6:motor_turn	16	static
